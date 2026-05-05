@@ -66,4 +66,4 @@ Player Activity:
 - Withdrawals
 - Game sessions
 - Bonuses
-- Responsible-gaming alerts
+- Responsible gaming alerts
