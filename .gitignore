@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data files - avoid committing large/private data
+data/raw/
+*.parquet
+*.delta
+
+# Environment variables
+.env
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
