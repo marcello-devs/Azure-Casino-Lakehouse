@@ -45,3 +45,36 @@ End-to-end Azure data engineering project simulating casino transactions and bui
 - Parquet optimization
 - Revenue analytics (GGR)
 - Player risk monitoring
+
+## Architecture
+
+![Architecture](docs/screenshots/architecture.png)
+
+## Data Pipeline
+
+![ADF Pipeline](docs/screenshots/adf_pipeline.png)
+
+## Transformations (Databricks)
+
+![Databricks](docs/screenshots/databricks_transform.png)
+
+## Analytics Output
+
+![Gold Tables](docs/screenshots/gold_alerts.png)
+
+![Gold Tables](docs/screenshots/gold_daily_revenue.png)
+
+![Gold Tables](docs/screenshots/gold_player_activity.png)
+
+## 🚀 Project Summary
+
+End-to-end Azure data engineering pipeline using:
+- Azure Data Factory (orchestration)
+- Azure Data Lake (storage)
+- Databricks (PySpark transformations)
+- Medallion architecture (Bronze/Silver/Gold)
+
+Includes:
+- Revenue analytics (GGR)
+- Player activity tracking
+- Responsible gaming alerts
